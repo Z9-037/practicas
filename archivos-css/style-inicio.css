@@ -3,9 +3,16 @@ i {color: #00f;
 
 .color{color: rgb(141, 65, 228);}
 
-body {background-color: rgb(220, 223, 80);}
+div {color: red;
+font-size: 20px;
+text-align: center;}
+
+body {background-color: white;}
 
 h1 {color: #900;
+text-align: center;}
+
+h2 {color: #f00; 
 text-align: center;}
 
 p {font-size: 19px;}
