@@ -1,15 +1,18 @@
 i {color: #00f;
    font-size: 18px;}
 
-.color{color: rgb(141, 65, 228);}
+.color {color: rgb(141, 65, 228);}
 
 a {color: red;
      font-size: 20px;
      text-align: right;}
 
-.right{text-align: right;}
+#right {text-align: right;
+        font-size: 16px;}
 
-body {background-color: rgb(197, 183, 250);
+        
+
+body {background-color: rgb(255,255,255);
 }
 
 h1 {color: #900;
@@ -18,5 +21,5 @@ h1 {color: #900;
 h2 {color: #f00; 
     text-align: center;}
 
-p {font-size: 16px;}
+
 
