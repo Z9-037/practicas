@@ -1,7 +1,7 @@
 i {color: #00f;
    font-size: 18px;}
 
-.color {color: rgb(141, 65, 228);}
+.color {color: rgb(236, 212, 131);}
 
 a {color: red;
      font-size: 20px;
@@ -10,9 +10,9 @@ a {color: red;
 #right {text-align: right;
         font-size: 16px;}
 
-        
+  .buscar{font-display: right;}      
 
-body {background-color: rgb(255,255,255);
+body {background-color: rgb(100, 98, 98);
 }
 
 h1 {color: #900;
